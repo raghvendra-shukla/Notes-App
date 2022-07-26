@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(rgb(180 180 209 / 50%), rgb(56 56 50 / 50%)), url(notes.jpg);
+}
